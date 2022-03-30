@@ -1,0 +1,3 @@
+/media/ralex/2a17a9fd-dea9-4940-b67e-2348aa63bb5f/repos/AIMLDL/Neural-Network/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/ralex/2a17a9fd-dea9-4940-b67e-2348aa63bb5f/repos/AIMLDL/Neural-Network/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/ralex/2a17a9fd-dea9-4940-b67e-2348aa63bb5f/repos/AIMLDL/Neural-Network/cmake-build-debug/CMakeFiles/Neural_Network.dir

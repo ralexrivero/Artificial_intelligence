@@ -45,6 +45,10 @@
 - `conda env create --file environment.yml --name ztm-env`
 - `conda activate ztm-env`
 
+> run jupyter notebook
+
+- `jupyter notebook`
+
 > deactivate environment
 
 - `conda deactivate`

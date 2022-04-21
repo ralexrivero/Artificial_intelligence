@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """ boolean comparison """
+import numpy as np
+
 # classic comparision in python objects
 
 print(2 == (1 + 1))
@@ -10,7 +12,7 @@ print(1 == True)
 
 """ numpy comparison """
 
-import numpy as np
+
 my_house = np.array([18.0, 20.0, 10.75, 9.50])
 your_house = np.array([14.0, 24.0, 14.25, 9.0])
 

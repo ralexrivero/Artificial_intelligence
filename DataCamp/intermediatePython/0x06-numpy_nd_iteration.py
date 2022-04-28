@@ -2,8 +2,8 @@
 """ numpy 2D iterate over all elements """
 import numpy as np
 
-np_height = np.array([1, 2, 3, 4, 5])
-np_baseball = np.array([[1, 3], [2, 4], [3, 6], [8, 9]])
+np_height = np.array(['a', 'b', 'c', 'd', 'e'])
+np_baseball = np.array([[1, 'x'], [2, 'y'], [3, 'z'], [8, 'aa']])
 
 for x in np_height:
     print(x)

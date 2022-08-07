@@ -18,15 +18,15 @@ Artificial inteligence, Machine learning and Deep Learning
 [![Scikit-lern](https://img.shields.io/static/v1?label=&message=scikit-learn&color=F7931E&logo=scikit-learn&logoColor=F7931E&labelColor=e2e2e2)](https://scikit-learn.org/)<!-- scikitlearn -->
 [![OpenCV](https://img.shields.io/static/v1?label=&message=OpenCV&color=5C3EE8&logo=opencv&logoColor=5C3EE8&labelColor=e2e2e2)](https://opencv.org/)<!-- opencv -->
 
-## Author
-<!-- twitter -->
-[![Twitter](https://img.shields.io/twitter/follow/ralex_uy?style=social)](https://twitter.com/ralex_uy) <!-- linkedin --> [![Linkedin](https://img.shields.io/badge/LinkedIn-+26K-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ronald-rivero/) <!-- github --> [![Github](https://img.shields.io/github/followers/ralexrivero?style=social)](https://github.com/ralexrivero/) <!-- vagrant --> [![Vagrant](https://img.shields.io/static/v1?label=&message=Vagrant%20Profile&color=1868F2&logo=vagrant&labelColor=2F333A)](https://app.vagrantup.com/ralexrivero) <!-- docker --> [![Docker](https://img.shields.io/static/v1?label=&message=Docker%20Profile&color=2496ED&logo=Docker&labelColor=2F333A)](https://hub.docker.com/u/ralexrivero)
+## install conda
 
 > anaconda
 
 - `conda install scikit-learn-intelex`
 - `python -m sklearnex my_application.py`
 - `conda config --set auto_activate_base false`
-- `conda config --set auto_activate_base false`
 - `anaconda-navigator`
 
+## Author
+<!-- twitter -->
+[![Twitter](https://img.shields.io/twitter/follow/ralex_uy?style=social)](https://twitter.com/ralex_uy) <!-- linkedin --> [![Linkedin](https://img.shields.io/badge/LinkedIn-+26K-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ronald-rivero/) <!-- github --> [![Github](https://img.shields.io/github/followers/ralexrivero?style=social)](https://github.com/ralexrivero/) <!-- vagrant --> [![Vagrant](https://img.shields.io/static/v1?label=&message=Vagrant%20Profile&color=1868F2&logo=vagrant&labelColor=2F333A)](https://app.vagrantup.com/ralexrivero) <!-- docker --> [![Docker](https://img.shields.io/static/v1?label=&message=Docker%20Profile&color=2496ED&logo=Docker&labelColor=2F333A)](https://hub.docker.com/u/ralexrivero)
